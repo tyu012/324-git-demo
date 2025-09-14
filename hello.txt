@@ -2,4 +2,6 @@ Hello CSC-324!
 
 This is the mentor session focused on Git!
 
-My favorite thing to do is reading books!.
+My least favorite thing to do is reading books!.
+
+My least favorite food is Brussel sprouts!.
