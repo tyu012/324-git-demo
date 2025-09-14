@@ -3,3 +3,5 @@ Hello CSC-324!
 This is the mentor session focused on Git!
 
 My favorite thing to do is reading books!.
+
+My favorite food is Brie cheese!
